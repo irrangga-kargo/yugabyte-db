@@ -22,7 +22,7 @@ select array[
     'thu', -- 5
     'fri', -- 6
     'sat', -- 7
-    'mon'  -- 9
+    'mon'  -- 8
   ]::text
 as arr;
 ```
